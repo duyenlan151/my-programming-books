@@ -28,17 +28,17 @@
   * [Angular](#angularjs)
 * [Markdown](#markdown)
 
-### Algorithms & Data Structures
+#### Algorithms & Data Structures
 * [Data Structure and Algorithm](https://www.youtube.com/playlist?list=PLLvKknWU7N4y_eGpQdg1Y-hORO7cxtoLU) - Lalit Vashistha
 * [Data Structure and Algorithm Vietnam](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
 
-### HTML and CSS
+#### HTML and CSS
 * [CSS Grid](https://cssgrid.io) - Wesbos
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) - The Net Ninja
 
-### JavaScript
+#### JavaScript
 * [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
 * [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function»
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
@@ -68,7 +68,7 @@
 * [AngularJS for Beginners](https://tedu.com.vn/khoa-hoc/angularjs-cho-nguoi-moi-bat-dau-5.html) - TEDU
 * [100 Days Of Angular from Agnular Vietnam](https://www.youtube.com/playlist?list=PLMTyi4Bfd5pW73uXw-6jgRxDwdPYqwk0r) - Angular Vietnam
 
-### TypeScript
+#### TypeScript
 * [Beginner's Typescript](https://www.totaltypescript.com/tutorials/beginners-typescript) - Matt Pocock
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
 * [TypeScript Basic](https://www.youtube.com/playlist?list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN
@@ -76,13 +76,13 @@
 * [TypeScript Basic](https://www.youtube.com/playlist?list=PLeS7aZkL6GOtUGTQ81kfm3iGlRTycKjrZ) - Easy Frontend
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
 
-### Markdown
+#### Markdown
 
 * [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown) - GitHub Learning Lab *(GitHub account or email address required)*
 * [MasteringMarkdown](https://masteringmarkdown.com) - Wesbos
 
 
-## How to Share
+### How to Share
 
 <div align="left" markdown="1">
 
