@@ -86,6 +86,10 @@
 
 <div align="left" markdown="1">
 
+<a href="http://twitter.com/intent/tweet?text=https://github.com/duyenlan151/my-programming-books">Share on Twitter</a><br>
+<a href="https://www.facebook.com/share.php?u=https://github.com/duyenlan151/my-programming-books">Share on Facebook</a><br>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/duyenlan151/my-programming-books">Share on LinkedIn</a><br>
+<a href="https://t.me/share/url?url=https://github.com/duyenlan151/my-programming-books">Share on Telegram</a><br>
 
 
 </div>
